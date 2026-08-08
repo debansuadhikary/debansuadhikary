@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/banner.jpeg" alt="Header Banner" width="100%" />
+  <img src="./assets/banner.jpeg" width="100%" />
 
   <br/><br/>
 
@@ -29,7 +29,7 @@
 <div align="left">
 <hr></hr>
 
-<img align="right" src="./assets/avatar.jpeg" width="25%" alt="Monochrome Visual"/>
+<img align="right" src="./assets/avatar.jpeg" width="20%" alt="Monochrome Visual"/>
 
 <p>
   I am a physics enthusiast focused on quantum foundations, theoretical models, and computational physics.
