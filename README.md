@@ -4,9 +4,12 @@
 
   <br/><br/>
 
+<p align="center">
+  <a href="mailto:debansuadhikary@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/debansuadhikary/debansuadhikary/raw/main/assets/resume_professional.pdf" target="_blank"><img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/debansu-adhikary/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/CODEFORCES-000000?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/CHESS.COM-000000?style=for-the-badge&logo=chess.com&logoColor=white"/></a>
+  <a href="https://orcid.org/0009-0007-8972-6914"><img src="https://img.shields.io/badge/ORCID-000000?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+</p>
 
   <br/><br/>
 
