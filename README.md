@@ -6,8 +6,6 @@
 
   <h1>Hi, I'm Debansu Adhikary</h1>
 
-  <hr style="border: 0; height: 1px; background: #333; margin: 20px 0;" />
-
   <h3>Physics Student & Undergraduate Researcher</h3>
 
   <p><code>Exploring Quantum Foundations & Scientific Computing</code></p>
@@ -52,6 +50,7 @@
 
 <h3 align="left"><i>// TECHNOLOGIES & TOOLS</i></h3>
 <hr></hr>
+<div align="center">
 
 > *Applied computational tools — continually learning and deepening my understanding through physics projects.*
 
@@ -78,6 +77,7 @@
   <img src="https://img.shields.io/badge/VS_CODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
+</div>
 <br></br>
 
 <h3 align="left"><i>// STATISTICS</i></h3>
