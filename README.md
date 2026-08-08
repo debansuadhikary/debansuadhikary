@@ -32,7 +32,7 @@
 <img align="right" src="./assets/avatar.jpeg" width="25%" alt="Monochrome Visual"/>
 
 <p>
-  Hello, I'm <b>Debansu Adhikary</b>. I am a physics enthusiast focused on quantum foundations, theoretical models, and computational physics.
+  I am a physics enthusiast focused on quantum foundations, theoretical models, and computational physics.
 </p>
 
 <p>
