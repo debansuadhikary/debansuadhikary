@@ -32,7 +32,7 @@
 <img align="right" src="./assets/avatar_2.jpeg" width="20%" alt="Monochrome Visual"/>
 
 <p>
-  I am a physics enthusiast focused on quantum foundations, theoretical models, and computational physics.
+  I am a physics undergrad, focusing on quantum foundations, theoretical models, and computational physics.
 </p>
 
 <p>
